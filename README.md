@@ -16,7 +16,7 @@
 - 🔭 Atualmente trabalhando em **[projetos]**
 - 🌱 Estudando **[Python, C e CSS]**
 - 💬 Pergunte-me sobre **[Python]**
-- 📍 Moro em **[Caraoicuiba, São Paulo]**
+- 📍 Moro em **[Carapicuiba, São Paulo]**
 - ⚡ Curiosidade: **[Em constante aprendizado]**
 
 ---
